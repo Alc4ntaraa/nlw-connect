@@ -30,7 +30,7 @@ CodeCraft Summit 2025
 Dias 15 a 17 de março | Das 18h às 21h | Online & Gratuito
 Palestras, workshops e hackathons sobre tendências no desenvolvimento de software, arquitetura de sistemas e tecnologias emergentes.
 
-📄 Licença
+## 📄 Licença
 Este projeto está sob a licença MIT. Sinta-se à vontade para utilizá-lo como inspiração.
 
 💜 Desenvolvido durante o NLW Connect da Rocketseat.
