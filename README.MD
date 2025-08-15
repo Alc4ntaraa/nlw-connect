@@ -1,53 +1,36 @@
-# HTML
+# 🚀 NLW Connect - CodeCraft Summit 2025
 
-- HyperText
-- Markup
- - tags
- - atributes
-- Language
+A página apresenta informações sobre o evento fictício **CodeCraft Summit 2025**, incluindo descrição, datas e formulário de inscrição.
 
-# CSS
+---
 
-- Cascading
-- Style
-- Sheet 
+## 🛠 Tecnologias Utilizadas
 
-# JavaScript
+- **HTML5**
+- **CSS3**
+- **JavaScript**
+- **[Figma](https://figma.com/)** para design base
+- Fonte personalizada e ícones do projeto
 
-- Linguagem interpretada pelo Browser
-- Multiparadigmas
+---
 
-## Conceitos fundamentais de programação
+## 📋 Funcionalidades
 
-Comentários
-Declaração de variáveis (const, let)
-Operadores (atribuição, concatenação, matemáticos, comparação)
-Tipos de dados (string, number, boolean, Date, Math)
-Estrutura de dados (functions, object, array)
-Controle de fluxo (if/else)
-Estrutura de repetição (for)
-Manipulação e gestão dos dados
-Conversão de dados 
+- Exibição das informações do evento.
+- Formulário de inscrição com campos para **e-mail** e **telefone**.
+- Layout responsivo para diferentes tamanhos de tela.
 
-## Algoritmo
+---
 
-Sequência de passos lógica e finita para resolução de um problema 
+🎯 Objetivo
+O objetivo deste projeto foi colocar em prática conceitos de HTML, CSS e JavaScript aprendidos durante o evento, desenvolvendo uma página moderna e responsiva.
 
-## Fases da resolução de um problema
+📅 Sobre o evento fictício
+CodeCraft Summit 2025
+Dias 15 a 17 de março | Das 18h às 21h | Online & Gratuito
+Palestras, workshops e hackathons sobre tendências no desenvolvimento de software, arquitetura de sistemas e tecnologias emergentes.
 
-Coletar os dados
-Processar os dados 
-Apresentar os dados
+📄 Licença
+Este projeto está sob a licença MIT. Sinta-se à vontade para utilizá-lo como inspiração.
 
-
-```JavaScript
-// comentários, variáveis, tipos de dados e funções
-const corBola = "azul" + "escuro" // azulescuro
-const idade = 10 + 2 // 12
-
-// arrow function
-const soma = (a, b) => {
-  return a + b
-}
-
-alert(soma(23,45))
+💜 Desenvolvido durante o NLW Connect da Rocketseat.
